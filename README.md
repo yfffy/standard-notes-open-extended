@@ -1,6 +1,6 @@
 ![Build and Deploy](https://github.com/kylejbrk/standard-notes-open-extended/workflows/Build%20and%20Deploy/badge.svg)
 # Standard Notes Open Extended 
-A Free Open Source Standard Notes Extensions Repository Hosted via Github Pages.
+A Free Open Source Standard Notes Extensions Repository Hosted via Github Pages. 
 
 # Use 
 Add https://raw.githubusercontent.com/kylejbrk/standard-notes-open-extended/gh-pages/index.json as your Extended Activation Code, and click **Submit Code**. 
